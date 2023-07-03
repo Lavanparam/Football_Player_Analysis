@@ -17,7 +17,7 @@ Coming off a relatively successful season, Manchester United is looking to bolst
 
 # <p style="padding:10px;background-color:orange;margin:0;color:black;font-family:newtimeroman;font-size:100%;text-align:center;border: 15px 50px;overflow:hidden;font-weight:500">Data</p>
 
-This dataset contains 2022-2023 football player stats per 90 minutes. Only players of Premier League, Ligue 1, Bundesliga, Serie A and La Liga are listed.
+This dataset contains 2022-2023 football player stats per 90 minutes. Only players of Premier League, Ligue 1, Bundesliga, Serie A and La Liga are listed. I found the dataset on [Kaggle](https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats) where it was provided to me by a user called VIVO VINCO. The original Dataset comes from [Football Reference](https://fbref.com/en/comps/Big5/stats/players/Big-5-European-Leagues-Stats)
 
 ***Here are the descriptions for each column in the dataset:***
 -	Rk : Rank
